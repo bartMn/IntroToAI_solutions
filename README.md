@@ -1,2 +1,3 @@
 # IntroToAI_solutions
-Each solution is in a different branch
+In this repository you can find 13 branches. 
+Each branch contains a solution to a different problem from "CS50 Introduction to Artificial Intelligence with Python" course.
